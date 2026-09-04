@@ -1,0 +1,110 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions (for Windows as well)
+*.so
+*.dll
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# PyInstaller
+#  * https://pyinstaller.readthedocs.io/en/latest/usage.html#cmdoption-onefile
+#  * https://github.com/pyinstaller/pyinstaller/issues/1578
+#  * https://github.com/pyinstaller/pyinstaller/issues/2041
+*.spec
+
+# PIP
+#  * https://pip.pypa.io/en/stable/user_guide/#configuration
+#  * https://pip.pypa.io/en/stable/cli/pip_config/
+#  * https://pip.pypa.io/en/stable/cli/pip_install/#cmdoption-no-cache-dir
+#  * https://pip.pypa.io/en/stable/cli/pip_install/#cmdoption-no-deps
+#  * https://pip.pypa.io/en/stable/cli/pip_install/#cmdoption-pre
+#  * https://pip.pypa.io/en/stable/cli/pip_install/#cmdoption-requirement
+#  * https://pip.pypa.io/en/stable/cli/pip_install/#cmdoption-user
+#  * https://pip.pypa.io/en/stable/cli/pip_install/#cmdoption-verbose
+#  * https://pip.pypa.io/en/stable/cli/pip_install/#cmdoption-version
+#  * https://pip.pypa.io/en/stable/cli/pip_install/#cmdoption-warn-script-location
+#  * https://pip.pypa.io/en/stable/cli/pip_install/#cmdoption-warn-conflicts
+#  * https://pip.pypa.io/en/stable/cli/pip_install/#cmdoption-warn-implicit
+#  * https://pip.pypa.io/en/stable/cli/pip_install/#cmdoption-warn-unavailable
+#  * https://pip.pypa.io/en/stable/cli/pip_install/#cmdoption-warn-unusable
+#  * https://pip.pypa.io/en/stable/cli/pip_install/#cmdoption-warn-unused
+#  * https://pip.pypa.io/en/stable/cli/pip_install/#cmdoption-warn-unknown
+#  * https://pip.pypa.io/en/stable/cli/pip_install/#cmdoption-warn-unexpected
+#  * https://pip.pypa.io/en/stable/cli/pip_install/#cmdoption-warn-unreliable
+#  * https://pip.pypa.io/en/stable/cli/pip_install/#cmdoption-warn-untrusted
+#  * https://pip.pypa.io/en/stable/cli/pip_install/#cmdoption-warn-unsupported
+#  * https://pip.pypa.io/en/stable/cli/pip_install/#cmdoption-warn-unverified
+#  * https://pip.pypa.io/en/stable/cli/pip_install/#cmdoption-warn-unrecognized
+#  * https://pip.pypa.io/en/stable/cli/pip_install/#cmdoption-warn-uninstall
+#  * https://pip.pypa.io/en/stable/cli/pip_install/#cmdoption-warn-unavailable
+#  * https://pip.pypa.io/en/stable/cli/pip_install/#cmdoption-warn-unusable
+#  * https://pip.pypa.io/en/stable/cli/pip_install/#cmdoption-warn-unused
+#  * https://pip.pypa.io/en/stable/cli/pip_install/#cmdoption-warn-unknown
+#  * https://pip.pypa.io/en/stable/cli/pip_install/#cmdoption-warn-unexpected
+#  * https://pip.pypa.io/en/stable/cli/pip_install/#cmdoption-warn-unreliable
+#  * https://pip.pypa.io/en/stable/cli/pip_install/#cmdoption-warn-untrusted
+#  * https://pip.pypa.io/en/stable/cli/pip_install/#cmdoption-warn-unsupported
+#  * https://pip.pypa.io/en/stable/cli/pip_install/#cmdoption-warn-unverified
+#  * https://pip.pypa.io/en/stable/cli/pip_install/#cmdoption-warn-unrecognized
+#  * https://pip.pypa.io/en/stable/cli/pip_install/#cmdoption-warn-uninstall
+
+# Virtual environments
+venv/
+env/
+ENV/
+env/
+.venv/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# OS generated files
+._*
+.DS_Store
+.DS_Store?
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Icon?
+desktop.ini
+
+# Local configuration
+.env
+.env.local
+.env.*.local
+
+# Logs
+*.log
+
+# Temporary files
+tmp/
+temp/
+
+# Build artifacts
+dist/
+build/
+*.egg-info/
